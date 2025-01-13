@@ -1,6 +1,6 @@
 ## Here is the table of contents in this repository:
 ### 1. Codeforces/Contests/Usual
-| Round Name                                                                          Problem                              | File        |
+| Round Name                                                                         | Problem                              | File        |
 |------------------------------------------------------------------------------------|--------------------------------------|-------------|
 | Codeforces Round 983 (Div. 2)                                                      | A. Circuit                           | SNP-658.cpp | 
 | Codeforces Round 983 (Div. 2)                                                      | B. Medians                           | CPG-183.cpp | 
