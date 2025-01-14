@@ -85,7 +85,19 @@
 | Codeforces Round 545 (Div. 2) A. Sushi for Two     |            900 | 77F-00960.cpp |
 | Codeforces Round 460 (Div. 2) B. Perfect Number    |           1100 | 34B-01989.py  |
 
-### 5. LeetCode
+### 5. cses
+| Name             | Topic                 | File         |
+|------------------|-----------------------|--------------|
+| Two Knights      | Introductory Problems | 34F-00843.py |
+| Tower of Hanoi   | Introductory Problems | 50F-05326.py |
+| Increasing Array | Introductory Problems | 37F-00544.py |
+| Permutations     | Introductory Problems | 37H-07736.py |
+| Weird Algorithm  | Introductory Problems | 81H-03889.py | 
+| Missing Number   | Introductory Problems | 49C-08620.py |
+| Repetitions      | Introductory Problems | 26B-00750.py |
+| Number Spiral    | Introductory Problems | 37B-02661.py |
+
+### 6. LeetCode
 | Number | Name                                                     | Difficulty Level | File          | Notes                                                   |
 |--------|----------------------------------------------------------|------------------|---------------|---------------------------------------------------------|
 |      1 | Two Sum                                                  | Easy             | 15F-01386.cpp | Beats 100%                                              |
@@ -101,17 +113,18 @@
 |     29 | Divide Two Integers                                      | Medium           | 24E-00343.py  | Beats 100%                                              |
 |     31 | Next Permutation                                         | Medium           | 15F-01583.py  | Beats 100%                                              |
 |     34 | Find First and Last Position of Elemenet in Sorted Array | Medium           | 50H-66805.py  | Beats 100%                                              |
+|     35 | Search Insert Position                                   | Easy             | 21E-00119.cpp | Beats 100%                                              |
 |     60 | Permutation Sequence                                     | Hard             | 50H-69710.cpp | O(n * n!) solution, beats 15.13%, not the best solution | 
 |     74 | Search a 2D Matrix                                       | Medium           | 47H-05867.cpp | Beats 100%                                              |
 |     85 | Maximal Rectangle                                        | Hard             | 81H-04423.cpp | O(n ^ 3 * log(n)), beats 5.01%, not the best solution   |
 |   1011 | Capacity To Ship Packages Within D Days                  | Medium           | 18H-03381.py  | N log(N) solution using Binary Search, beats 53.46%     |
 
-### 6. lqdoj 
+### 7. lqdoj 
 | Name                | File         |
 |---------------------|--------------|
 | CSES Tower of Hanoi | 50E-07736.py |
 
-### 7. vnoi
+### 8. vnoi
 | Name                                            | File          |
 |-------------------------------------------------|---------------|
 | Wooden Sticks                                   | 24F-00060.cpp |
