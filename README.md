@@ -65,17 +65,38 @@
 | Codeforces Round 900 (Div. 3) | E. Iva & Pav         | 43H-07003.cpp |
 
 ### 3. Codeforces/Practice/800
-| No | Name                                                                              | File          |
-|----|-----------------------------------------------------------------------------------|---------------|
-| 1  | Codeforces Round 977 (Div. 2, based on COMPFEST 16 - Final Round) A. Meaning mean | 29F-05221.cpp |
-| 2  | Testing Round 19 (Div. 3) A. Alternating Sum of Numbers                           | 29K-09863.py  |
-| 3  | Refact.ai Match 1 (Codeforces Round 985) A. Set                                   | 29K-13321.cpp |
-| 4  | Educational Codeforces Round 169 (Rated for Div. 2) A. Closest Point              | 47H-06009.py  |
-| 5  | Codeforces Round 982 (Div. 2) A. Rectangle Arrangement                            | 50H-70142.cpp |
-| 6  | Codeforces Round 971 (Div. 4) B. osu!mania                                        | 82H-01147.py  |
-| 7  | Educational Codeforces Round 170 (Rated for Div. 2) A. Two screens                | 23F-00207.cpp |
-| 8  | Codeforces Round 970 (Div. 3) A. Sakurako's Exam                                  | 50F-02913.py  | 
-| 9  | Codeforces Round 971 (Div. 4) A. Minimize!                                        | 47B-02823.py  |
+| No  | Name                                                                                                                                              | File          |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| 1   | Codeforces Round 977 (Div. 2, based on COMPFEST 16 - Final Round) A. Meaning mean                                                                 | 29F-05221.cpp |
+| 2   | Testing Round 19 (Div. 3) A. Alternating Sum of Numbers                                                                                           | 29K-09863.py  |
+| 3   | Refact.ai Match 1 (Codeforces Round 985) A. Set                                                                                                   | 29K-13321.cpp |
+| 4   | Educational Codeforces Round 169 (Rated for Div. 2) A. Closest Point                                                                              | 47H-06009.py  |
+| 5   | Codeforces Round 982 (Div. 2) A. Rectangle Arrangement                                                                                            | 50H-70142.cpp |
+| 6   | Codeforces Round 971 (Div. 4) B. osu!mania                                                                                                        | 82H-01147.py  |
+| 7   | Educational Codeforces Round 170 (Rated for Div. 2) A. Two screens                                                                                | 23F-00207.cpp |
+| 8   | Codeforces Round 970 (Div. 3) A. Sakurako's Exam                                                                                                  | 50F-02913.py  | 
+| 9   | Codeforces Round 971 (Div. 4) A. Minimize!                                                                                                        | 47B-02823.py  |
+| 10A | Codeforces Round 970 (Div. 3) C. Longest Good Array                                                                                               | 37H-08612.py  |
+| 10B | Codeforces Round 970 (Div. 3) C. Longest Good Array                                                                                               | 50H-45599.cpp | 
+| 11  | Codeforces Round 970 (Div. 3) B. Square or Not                                                                                                    | 29K-02631.py  |
+| 12  | Codeforces Round 976 (Div. 2) and Divide By Zero 9.0 A. Find Minimum Operations                                                                   | 81H-03269.cpp | 
+| 13  | Codeforces Round 973 (Div. 2) A. Zhan's Blender                                                                                                   | 49H-04052.py  |
+| 14  | Codeforces Round 974 (Div. 3) A. Robin Helps                                                                                                      | 49H-09503.py  |
+| 15  | Codeforces Round 964 (Div. 4) A. A+B Again?                                                                                                       | 50F-00268.py  |
+| 16  | Testing Round 19 (Div. 3) B. Three Brothers                                                                                                       | 60B-03240.py  |
+| 17  | Codeforces Global Round 27 A. Sliding                                                                                                             | 50H-05444.cpp |
+| 18  | 2024-2025 ICPC, NERC, Southern and Volga Russian Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams) J. Waiting for ...       | 50H-52926.cpp |
+| 19  | Codeforces Round 979 (Div. 2) A. A Gift From Orangutan                                                                                            | 50H-37748.cpp |
+| 20  | Codeforces Round 979 (Div. 2) B. Minimise Oneness                                                                                                 | 25G-00028.cpp |
+| 21  | 2024-2025 ICPC, NERC, Southern and Volga Russian Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams) N. Fixing the Expression | 25B-00274.cpp |
+| 22  | CodeTon Round 9 (Div. 1 + Div. 2, Rated, Prizes!) A. Shohag Loves Mod                                                                             | 50H-26025.cpp |
+| 23  | Codeforces Round 981 (Div. 3) A. Sakurako and Kosuke                                                                                              | 25B-00233.cpp | 
+| 24  | Codeforces Round 990 (Div. 2) A. Alyonna and a Square Jigsaw Puzzle                                                                               | 14B-03107.cpp |
+| 25  | Codeforces Round 975 (Div. 2) A. Max Plus Size                                                                                                    | 14F-00252.py  | 
+| 26  | Codeforces Round 969 (Div. 2) A. Dora's Set                                                                                                       | 27B-00376.py  |
+| 27  | Codeforces Round 980 (Div. 2) A. Profitable Interest Rate                                                                                         | 98F-00082.cpp |
+| 28  | Codeforces Round 974 (Div. 3) B. Robin Hood and the Major Oak                                                                                     | 14B-03506.py  |
+| 29  | Codeforces Round 978 (Div. 2) A. Bus to Pénjamo                                                                                                   | 27F-00053.cpp |
 
 ### 4. Codeforces/Practice/Others
 | Name                                               | Problem Rating | File          |
@@ -120,9 +141,11 @@
 |   1011 | Capacity To Ship Packages Within D Days                  | Medium           | 18H-03381.py  | N log(N) solution using Binary Search, beats 53.46%     |
 
 ### 7. lqdoj 
-| Name                | File         |
-|---------------------|--------------|
-| CSES Tower of Hanoi | 50E-07736.py |
+| Name                  | File          |
+|-----------------------|---------------|
+| CSES Tower of Hanoi   | 50E-07736.py  |
+| Hành Trình Không Dừng | 37B-02364.cpp |
+| Hoán Vị Lớn Nhỏ       | 37B-02756.py  |
 
 ### 8. vnoi
 | Name                                            | File          |
