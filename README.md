@@ -133,6 +133,7 @@
 |     26 | Remove Duplicates from Sorted Array                      | Easy             | 50F-03886.cpp | Beats 100%                                              |
 |     29 | Divide Two Integers                                      | Medium           | 24E-00343.py  | Beats 100%                                              |
 |     31 | Next Permutation                                         | Medium           | 15F-01583.py  | Beats 100%                                              |
+|     33 | Search in Rotated Sorted Array                           | Medium           | 18B-01583.py  | Beats 100%
 |     34 | Find First and Last Position of Elemenet in Sorted Array | Medium           | 50H-66805.py  | Beats 100%                                              |
 |     35 | Search Insert Position                                   | Easy             | 21E-00119.cpp | Beats 100%                                              |
 |     60 | Permutation Sequence                                     | Hard             | 50H-69710.cpp | O(n * n!) solution, beats 15.13%, not the best solution | 
