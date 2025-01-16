@@ -97,6 +97,11 @@
 | 27  | Codeforces Round 980 (Div. 2) A. Profitable Interest Rate                                                                                         | 98F-00082.cpp |
 | 28  | Codeforces Round 974 (Div. 3) B. Robin Hood and the Major Oak                                                                                     | 14B-03506.py  |
 | 29  | Codeforces Round 978 (Div. 2) A. Bus to Pénjamo                                                                                                   | 27F-00053.cpp |
+| 30  | Goodbye 2024: 2025 is NEAR A. Tender Carpenter                                                                                                    | 37B-02385.py  |
+| 31  | Codeforces Round 968 (Div. 2) B. Turtle and Piggy Are Playing a Game 2                                                                            | 37F-00717.py  |
+| 32  | Codeforces Round 968 (Div. 2) A. Turtle and Good Strings                                                                                          | 47H-03679.py  |
+| 33  | EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2) A. Distanced Coloring                                                            | 25E-00201.py  |
+| 34  | Codeforces Round 967 (Div. 2) B. Generate Permutation                                                                                             | 25F-00278.cpp |
 
 ### 4. Codeforces/Practice/Others
 | Name                                               | Problem Rating | File          |
@@ -138,6 +143,7 @@
 |     35 | Search Insert Position                                   | Easy             | 21E-00119.cpp | Beats 100%                                              |
 |     60 | Permutation Sequence                                     | Hard             | 50H-69710.cpp | O(n * n!) solution, beats 15.13%, not the best solution | 
 |     74 | Search a 2D Matrix                                       | Medium           | 47H-05867.cpp | Beats 100%                                              |
+|     81 | Search in Rotated Sorted Array II                        | Medium           | 14F-00976.py  | Beats 100%                                              |
 |     85 | Maximal Rectangle                                        | Hard             | 81H-04423.cpp | O(n ^ 3 * log(n)), beats 5.01%, not the best solution   |
 |   1011 | Capacity To Ship Packages Within D Days                  | Medium           | 18H-03381.py  | N log(N) solution using Binary Search, beats 53.46%     |
 
