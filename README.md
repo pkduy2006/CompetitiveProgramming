@@ -122,6 +122,7 @@
 | Missing Number   | Introductory Problems | 49C-08620.py |
 | Repetitions      | Introductory Problems | 26B-00750.py |
 | Number Spiral    | Introductory Problems | 37B-02661.py |
+| Distinct Number  | Sorting and Searching | 50H-70737.py |
 
 ### 6. LeetCode
 | Number | Name                                                     | Difficulty Level | File          | Notes                                                   |
@@ -138,13 +139,14 @@
 |     26 | Remove Duplicates from Sorted Array                      | Easy             | 50F-03886.cpp | Beats 100%                                              |
 |     29 | Divide Two Integers                                      | Medium           | 24E-00343.py  | Beats 100%                                              |
 |     31 | Next Permutation                                         | Medium           | 15F-01583.py  | Beats 100%                                              |
-|     33 | Search in Rotated Sorted Array                           | Medium           | 18B-01583.py  | Beats 100%
+|     33 | Search in Rotated Sorted Array                           | Medium           | 18B-01583.py  | Beats 100%                                              | 
 |     34 | Find First and Last Position of Elemenet in Sorted Array | Medium           | 50H-66805.py  | Beats 100%                                              |
 |     35 | Search Insert Position                                   | Easy             | 21E-00119.cpp | Beats 100%                                              |
 |     60 | Permutation Sequence                                     | Hard             | 50H-69710.cpp | O(n * n!) solution, beats 15.13%, not the best solution | 
 |     74 | Search a 2D Matrix                                       | Medium           | 47H-05867.cpp | Beats 100%                                              |
 |     81 | Search in Rotated Sorted Array II                        | Medium           | 14F-00976.py  | Beats 100%                                              |
 |     85 | Maximal Rectangle                                        | Hard             | 81H-04423.cpp | O(n ^ 3 * log(n)), beats 5.01%, not the best solution   |
+|    153 | Find Minimum in Rotated Sorted Array                     | Medium           | 50H-70737.py  | Beats 100%, using binary search                         |
 |   1011 | Capacity To Ship Packages Within D Days                  | Medium           | 18H-03381.py  | N log(N) solution using Binary Search, beats 53.46%     |
 
 ### 7. lqdoj 
