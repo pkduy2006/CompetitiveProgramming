@@ -56,6 +56,9 @@
 | Codeforces Round 996 (Div. 2)                                                      | A. Two Frogs                         | CNS-329.cpp |
 | Codeforces Round 996 (Div. 2)                                                      | B. Crafting                          | CPG-218.cpp |
 | Codeforces Round 996 (Div. 2)                                                      | C. The Trail                         | YVZ-309.cpp |
+| Codeforces Round 997 (Div. 2)                                                      | A. Shape Perimeter                   | CPG-210.cpp |
+| Codeforces Round 997 (Div. 2)                                                      | B. Find the Permutation              | SNO-400.cpp |
+| Codeforces Round 997 (Div. 2)                                                      | C. Palindromic Subsequences          | JJT-258.cpp |
 
 ### 2. Codeforces/Contests/Virtual
 | Round Name                    | Problem              | File          |
