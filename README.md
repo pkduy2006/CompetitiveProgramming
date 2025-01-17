@@ -112,17 +112,19 @@
 | Codeforces Round 460 (Div. 2) B. Perfect Number    |           1100 | 34B-01989.py  |
 
 ### 5. cses
-| Name             | Topic                 | File         |
-|------------------|-----------------------|--------------|
-| Two Knights      | Introductory Problems | 34F-00843.py |
-| Tower of Hanoi   | Introductory Problems | 50F-05326.py |
-| Increasing Array | Introductory Problems | 37F-00544.py |
-| Permutations     | Introductory Problems | 37H-07736.py |
-| Weird Algorithm  | Introductory Problems | 81H-03889.py | 
-| Missing Number   | Introductory Problems | 49C-08620.py |
-| Repetitions      | Introductory Problems | 26B-00750.py |
-| Number Spiral    | Introductory Problems | 37B-02661.py |
-| Distinct Number  | Sorting and Searching | 50H-70737.py |
+| Name             | Topic                 | File          |
+|------------------|-----------------------|---------------|
+| Two Knights      | Introductory Problems | 34F-00843.py  |
+| Tower of Hanoi   | Introductory Problems | 50F-05326.py  |
+| Increasing Array | Introductory Problems | 37F-00544.py  |
+| Permutations     | Introductory Problems | 37H-07736.py  |
+| Weird Algorithm  | Introductory Problems | 81H-03889.py  | 
+| Missing Number   | Introductory Problems | 49C-08620.py  |
+| Repetitions      | Introductory Problems | 26B-00750.py  |
+| Number Spiral    | Introductory Problems | 37B-02661.py  |
+| Distinct Number  | Sorting and Searching | 23F-00127.py  |
+| Apartments       | Sorting and Searching | 43F-00046.cpp |
+| Ferris Wheel     | Sorting and Searching | 72H-01372.cpp | 
 
 ### 6. LeetCode
 | Number | Name                                                     | Difficulty Level | File          | Notes                                                   |
