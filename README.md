@@ -98,27 +98,27 @@
 | 32  | Codeforces Round 968 (Div. 2) A. Turtle and Good Strings                                                                                          | 16.py     |
 | 33  | EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2) A. Distanced Coloring                                                            | 17.py     |
 | 34  | Codeforces Round 967 (Div. 2) B. Generate Permutation                                                                                             | 19.cpp    |
-| 35  |                                                                                                                                                   | 19E.      |
-| 36  |                                                                                                                                                   | 20.       |
-| 37  |                                                                                                                                                   | 21.       |
-| 38  |                                                                                                                                                   | 21N.      |
-| 39  |                                                                                                                                                   | 22.       |
-| 40  |                                                                                                                                                   | 22K.      |
-| 41  |                                                                                                                                                   | 22B.      |
-| 42  |                                                                                                                                                   | 23.       |
-| 43  |                                                                                                                                                   | 23N.      |
-| 44  |                                                                                                                                                   | 24.       |
-| 45  |                                                                                                                                                   | 25.       |
-| 46  |                                                                                                                                                   | 26.       |
-| 47  |                                                                                                                                                   | 30.       |
-| 48  |                                                                                                                                                   | 31.       |
-| 49  |                                                                                                                                                   | 32.       |
-| 50  |                                                                                                                                                   | 33.       |
+| 35  | Codeforces Round 967 (Div. 2) A. Make All Equal                                                                                                   | 19E.py    |
+| 36  | Codeforces Round 966 (Div. 3) B. Seating in a Bus                                                                                                 | 20.py     |
+| 37  | Codeforces Round 966 (Div. 3) A. Primary Task                                                                                                     | 21.py     |
+| 38  | Codeforces Round 964 (Div. 4) C. Showering                                                                                                        | 21N.py    |
+| 39  | Codeforces Round 965 (Div. 2) A. Find K Distinct Point with Fixed Center                                                                          | 22.py     |
+| 40  | Educational Codeforces Round 168 (Rated for Div. 2) A. Strong Password                                                                            | 22K.py    |
+| 41  | Codeforces Round 962 (Div. 3) B. Scale                                                                                                            | 22B.py    |
+| 42  | Codeforces Round 962 (Div. 3) A. Legs                                                                                                             | 23.py     |
+| 43  | Codeforces Round 961 (Div. 2) A. Diagonals                                                                                                        | 23N.py    |
+| 44  | Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2) A. Diverse Game                                                                          | 24.py     |
+| 45  | Codeforces Round 963 (Div. 2) A. Question Marks                                                                                                   | 25.py     |
+| 46  | Codeforces Round 957 (Div. 3) B. Angry Monk                                                                                                       | 26.py     |
+| 47  | Codeforces Round 957 (Div. 3) A. Only Pluses                                                                                                      | 30.py     |
+| 48  | Pinely Round 4 (Div. 1 + Div. 2) A. Maximize the Last Element                                                                                     | 31.py     |
+| 49  | Educational Codeforces Round 167 (Rated for Div. 2) A. Catch the Coin                                                                             | 32.py     |
+| 50  | EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2) A. Upload More RAM                                                               | 33.py     |
 
 ### 3. Codeforces/Practice/900
 | No  | Name                                                                                                                                              | File      |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| 1   |                                                                                                                                                   | 34.       |
+| 1   | Codeforces Round 990 (Div. 2) B. Replace Character                                                                                                | 34.cpp    |
 | 2   |                                                                                                                                                   | 35.       |
 | 3   |                                                                                                                                                   | 36.       |
 | 4   |                                                                                                                                                   | 37.       |
