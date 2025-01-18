@@ -119,7 +119,7 @@
 | No  | Name                                                                                                                                              | File      |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
 | 1   | Codeforces Round 990 (Div. 2) B. Replace Character                                                                                                | 34.cpp    |
-| 2   |                                                                                                                                                   | 35.       |
+| 2   | Codeforces Global Round 27 B. Everyone Loves Tres                                                                                                 | 35.py     |
 | 3   |                                                                                                                                                   | 36.       |
 | 4   |                                                                                                                                                   | 37.       |
 | 5   |                                                                                                                                                   | 40.       |
@@ -616,6 +616,7 @@
 |     81 | Search in Rotated Sorted Array II                        | Medium           | 81.py     | Beats 100%                                              |
 |     85 | Maximal Rectangle                                        | Hard             | 85.cpp    | O(n ^ 3 * log(n)), beats 5.01%, not the best solution   |
 |    153 | Find Minimum in Rotated Sorted Array                     | Medium           | 153.py    | Beats 100%, using binary search                         |
+|    154 | Find Minimum in Rotated Sorted Array II                  | Hard             | 154.py    | Beats 100%, using binary search                         |
 |   1011 | Capacity To Ship Packages Within D Days                  | Medium           | 1011.py   | N log(N) solution using Binary Search, beats 53.46%     |
 
 ### 7. lqdoj 
