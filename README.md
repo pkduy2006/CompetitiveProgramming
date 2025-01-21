@@ -117,6 +117,8 @@
 |    153 | Find Minimum in Rotated Sorted Array                     | Medium           | 153.py    | Beats 100%, using binary search                         |
 |    154 | Find Minimum in Rotated Sorted Array II                  | Hard             | 154.py    | Beats 100%, using binary search                         |
 |    162 | Find Peak Element                                        | Medium           | 162.py    | Beats 100%, using binary search                         |
+|    167 | Two Sum II - Input Array Is Sorted                       | Medium           | 167A.py   | Beats 6.40%, using binary search                        |
+|    167 | Two Sum II - Input Array Is Sorted                       | Medium           | 167B.cpp  | Beats 100%, using 2 pointers                            |
 |   1011 | Capacity To Ship Packages Within D Days                  | Medium           | 1011.py   | N log(N) solution using Binary Search, beats 53.46%     |
 
 ### 7. lqdoj 
