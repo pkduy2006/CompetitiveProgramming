@@ -65,16 +65,18 @@
 | 61 | Codeforces Round 998 (Div. 3)                                                      | D. Subtract Min Sort                 | CPG-178.cpp |
 
 ### 4. Codeforces/Practice
-| No | Name                                                | Problem Rating | File          |
-|----|-----------------------------------------------------|----------------|---------------|
-| 1  | Codeforces Round 674 (Div. 3) C. Increase and Copy  |           1100 | 23F-00105.cpp |
-| 2  | Codeforces Round 166 (Div. 2) B. Prime Matrix       |           1300 | 60E-01390.cpp |
-| 3  | Codeforces Round 545 (Div. 2) A. Sushi for Two      |            900 | 77F-00960.cpp |
-| 4  | Codeforces Round 460 (Div. 2) B. Perfect Number     |           1100 | 34B-01989.py  |
-| 5  | Codeforces Round 900 (Div. 3) B. Aleksa and Stack   |            800 | 76H-03763.py  |
-| 6  | Codeforces Round 900 (Div. 3) C. Vasilije in Cacak  |            900 | 76G-00292.py  |
-| 7  | Codeforces Round 900 (Div. 3) E. Iva & Pav          |           1400 | 29B-07544.cpp |
-| 8  | Codeforces Round 981 (Div. 3) B. Sakurako and Water |            900 | 92B-01563.py  | 
+| No | Name                                                                                    | Problem Rating | File          | Notes                         |
+|----|-----------------------------------------------------------------------------------------|----------------|---------------|-------------------------------|
+| 1  | Codeforces Round 674 (Div. 3) C. Increase and Copy                                      |           1100 | 23F-00105.cpp |                               |
+| 2  | Codeforces Round 166 (Div. 2) B. Prime Matrix                                           |           1300 | 60E-01390.cpp |                               |
+| 3  | Codeforces Round 545 (Div. 2) A. Sushi for Two                                          |            900 | 77F-00960.cpp |                               |
+| 4  | Codeforces Round 460 (Div. 2) B. Perfect Number                                         |           1100 | 34B-01989.py  |                               |
+| 5  | Codeforces Round 900 (Div. 3) B. Aleksa and Stack                                       |            800 | 76H-03763.py  |                               |
+| 6  | Codeforces Round 900 (Div. 3) C. Vasilije in Cacak                                      |            900 | 76G-00292.py  |                               |
+| 7  | Codeforces Round 900 (Div. 3) E. Iva & Pav                                              |           1400 | 29B-07544.cpp |                               |
+| 8  | Codeforces Round 981 (Div. 3) B. Sakurako and Water                                     |            900 | 92B-01563.py  |                               |
+| 9A | IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2) B. Kevin and Geometry | undetermined   | 43H-09674.py  | TLE on test 12 using Python   |
+| 9B | IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2) B. Kevin and Geometry | undetermined   | 15B-03266.cpp | accepted using C++            | 
 
 ### 5. cses
 | Name             | Topic                 | File     |
