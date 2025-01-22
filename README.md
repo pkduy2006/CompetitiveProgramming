@@ -94,34 +94,41 @@
 | Ferris Wheel     | Sorting and Searching | 1090.cpp | 
 
 ### 6. LeetCode
-| Number | Name                                                     | Difficulty Level | File      | Notes                                                   |
-|--------|----------------------------------------------------------|------------------|-----------|---------------------------------------------------------|
-|      1 | Two Sum                                                  | Easy             | 1.cpp     | Beats 100%                                              |
-|      3 | Longest Substring Without Repeating Characters           | Medium           | 3.cpp     | 2 * N solution, beats 83.74%                            |
-|      4 | Median of Two Sorted Arrays                              | Hard             | 4.cpp     | (M + N) solution, beats 34.66%, not the best solution   |
-|      7 | Reverse Integer                                          | Medium           | 7.cpp     | Beats 28.69%                                            |
-|      8 | String to Integer (atoi)                                 | Medium           | 8.cpp     | Beats 100%                                              |
-|      9 | Palindrome Number                                        | Easy             | 9.py      | Beats 29.2%                                             |   
-|     15 | 3Sum                                                     | Medium           | 15A.cpp   |  Solution using map, beats 23.68%                       |
-|     15 | 3Sum                                                     | Medium           | 15B.py    | O(N * 2) solution using 2 pointers, beats 100%          |
-|     15 | 3Sum                                                     | Medium           | 15C.cpp   | O(N * log(N)) solution using set, beats 24.15 %         |
-|     26 | Remove Duplicates from Sorted Array                      | Easy             | 26.cpp    | Beats 100%                                              |
-|     29 | Divide Two Integers                                      | Medium           | 29.py     | Beats 100%                                              |
-|     31 | Next Permutation                                         | Medium           | 31.py     | Beats 100%                                              |
-|     33 | Search in Rotated Sorted Array                           | Medium           | 33.py     | Beats 100%                                              | 
-|     34 | Find First and Last Position of Elemenet in Sorted Array | Medium           | 34.py     | Beats 100%                                              |
-|     35 | Search Insert Position                                   | Easy             | 35.cpp    | Beats 100%                                              |
-|     60 | Permutation Sequence                                     | Hard             | 60.cpp    | O(n * n!) solution, beats 15.13%, not the best solution |
-|     69 | Sqrt(x)                                                  | Easy             | 69.cpp    | Beats 100%                                              | 
-|     74 | Search a 2D Matrix                                       | Medium           | 74.cpp    | Beats 100%                                              |
-|     81 | Search in Rotated Sorted Array II                        | Medium           | 81.py     | Beats 100%                                              |
-|     85 | Maximal Rectangle                                        | Hard             | 85.cpp    | O(n ^ 3 * log(n)), beats 5.01%, not the best solution   |
-|    153 | Find Minimum in Rotated Sorted Array                     | Medium           | 153.py    | Beats 100%, using binary search                         |
-|    154 | Find Minimum in Rotated Sorted Array II                  | Hard             | 154.py    | Beats 100%, using binary search                         |
-|    162 | Find Peak Element                                        | Medium           | 162.py    | Beats 100%, using binary search                         |
-|    167 | Two Sum II - Input Array Is Sorted                       | Medium           | 167A.py   | Beats 6.40%, using binary search                        |
-|    167 | Two Sum II - Input Array Is Sorted                       | Medium           | 167B.cpp  | Beats 100%, using 2 pointers                            |
-|   1011 | Capacity To Ship Packages Within D Days                  | Medium           | 1011.py   | N log(N) solution using Binary Search, beats 53.46%     |
+| Number | Name                                                     | Difficulty Level | File      | Notes                                                     |
+|--------|----------------------------------------------------------|------------------|-----------|---------------------------------------------------------==|
+|      1 | Two Sum                                                  | Easy             | 1.cpp     | Beats 100%                                                |
+|      3 | Longest Substring Without Repeating Characters           | Medium           | 3.cpp     | 2 * N solution, beats 83.74%                              |
+|      4 | Median of Two Sorted Arrays                              | Hard             | 4.cpp     | (M + N) solution, beats 34.66%, not the best solution     |
+|      7 | Reverse Integer                                          | Medium           | 7.cpp     | Beats 28.69%                                              |
+|      8 | String to Integer (atoi)                                 | Medium           | 8.cpp     | Beats 100%                                                |
+|      9 | Palindrome Number                                        | Easy             | 9.py      | Beats 29.2%                                               |   
+|     15 | 3Sum                                                     | Medium           | 15A.cpp   |  Solution using map, beats 23.68%                         |
+|     15 | 3Sum                                                     | Medium           | 15B.py    | O(N * 2) solution using 2 pointers, beats 100%            |
+|     15 | 3Sum                                                     | Medium           | 15C.cpp   | O(N * log(N)) solution using set, beats 24.15 %           |
+|     26 | Remove Duplicates from Sorted Array                      | Easy             | 26.cpp    | Beats 100%                                                |
+|     29 | Divide Two Integers                                      | Medium           | 29.py     | Beats 100%                                                |
+|     31 | Next Permutation                                         | Medium           | 31.py     | Beats 100%                                                |
+|     33 | Search in Rotated Sorted Array                           | Medium           | 33.py     | Beats 100%                                                | 
+|     34 | Find First and Last Position of Elemenet in Sorted Array | Medium           | 34.py     | Beats 100%                                                |
+|     35 | Search Insert Position                                   | Easy             | 35.cpp    | Beats 100%                                                |
+|     60 | Permutation Sequence                                     | Hard             | 60.cpp    | O(n * n!) solution, beats 15.13%, not the best solution   |
+|     69 | Sqrt(x)                                                  | Easy             | 69.cpp    | Beats 100%                                                | 
+|     74 | Search a 2D Matrix                                       | Medium           | 74.cpp    | Beats 100%                                                |
+|     81 | Search in Rotated Sorted Array II                        | Medium           | 81.py     | Beats 100%                                                |
+|     85 | Maximal Rectangle                                        | Hard             | 85.cpp    | O(n ^ 3 * log(n)), beats 5.01%, not the best solution     |
+|    153 | Find Minimum in Rotated Sorted Array                     | Medium           | 153.py    | Beats 100%, using binary search                           |
+|    154 | Find Minimum in Rotated Sorted Array II                  | Hard             | 154.py    | Beats 100%, using binary search                           |
+|    162 | Find Peak Element                                        | Medium           | 162.py    | Beats 100%, using binary search                           |
+|    167 | Two Sum II - Input Array Is Sorted                       | Medium           | 167A.py   | Beats 6.40%, using binary search                          |
+|    167 | Two Sum II - Input Array Is Sorted                       | Medium           | 167B.cpp  | Beats 100%, using 2 pointers                              |
+|    240 | Search a 2D Matrix II                                    | Medium           | 240A.cpp  | O(N * log(N)) solution, beats 15.05%, using binary search | 
+|    240 | Search a 2D Matrix II                                    | Medium           | 240B.py   | O(M + N) solution, beats 25.85%                           |
+|    240 | Search a 2D Matrix II                                    | Medium           | 240C.cpp  | O(M + N) solution, beats 97.52%                           |
+|    275 | H-Index II                                               | Medium           | 275.py    | O(log(N)) solution, beats 100%, using binary search       |
+|    367 | Valid Perfect Square                                     | Easy             | 367.py    | O(log(N)) solution, beats 100%, using binary search       |
+|    704 | Binary Search                                            | Easy             | 704.py    | Beats 100%  using binary search                           |
+|    744 | Find Smallest Letter Greater Than Target                 | Easy             | 744.py    | Beats 100%, using binary search                           |
+|   1011 | Capacity To Ship Packages Within D Days                  | Medium           | 1011.py   | N log(N) solution using Binary Search, beats 53.46%       |
 
 ### 7. lqdoj 
 | Name                  | File                   |
