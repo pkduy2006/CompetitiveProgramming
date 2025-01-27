@@ -92,6 +92,7 @@
 | Missing Number   | Introductory Problems | 1083.py  |
 | Repetitions      | Introductory Problems | 1069.py  |
 | Number Spiral    | Introductory Problems | 1071.py  |
+| Two Sets         | Introductory Problems | 1092.cpp |
 | Distinct Number  | Sorting and Searching | 1621.py  |
 | Apartments       | Sorting and Searching | 1084.cpp |
 | Ferris Wheel     | Sorting and Searching | 1090.cpp | 
