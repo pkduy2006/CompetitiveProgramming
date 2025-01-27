@@ -75,8 +75,11 @@
 | 6  | Codeforces Round 900 (Div. 3) C. Vasilije in Cacak                                      |            900 | 76G-00292.py  |                               |
 | 7  | Codeforces Round 900 (Div. 3) E. Iva & Pav                                              |           1400 | 29B-07544.cpp |                               |
 | 8  | Codeforces Round 981 (Div. 3) B. Sakurako and Water                                     |            900 | 92B-01563.py  |                               |
-| 9A | IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2) B. Kevin and Geometry | undetermined   | 43H-09674.py  | TLE on test 12 using Python   |
-| 9B | IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2) B. Kevin and Geometry | undetermined   | 15B-03266.cpp | accepted using C++            | 
+| 9A | IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2) B. Kevin and Geometry |           1100 | 43H-09674.py  | TLE on test 12 using Python   |
+| 9B | IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2) B. Kevin and Geometry |           1100 | 15B-03266.cpp | accepted using C++            | 
+| 10 | Codeforces Round 1000 (Div. 2) A. Minimal Coprime                                       | undetermined   | 50H-60258.cpp |                               |
+| 11 | Codeforces Round 1000 (Div. 2) B. Subsequence Update                                    | undetermined   | 23H-01536.cpp |                               |
+| 12 | Codeforces Round 1000 (Div. 2) C. Remove Exactly Two                                    | undetermined   | 29H-96080.cpp |                               |
 
 ### 5. cses
 | Name             | Topic                 | File     |
