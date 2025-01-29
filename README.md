@@ -51,8 +51,8 @@
 | 47 | Codeforces Round 995 (Div. 3)                                                      | E. Best Price                        | JML-472.cpp |  
 | 48 | Hello 2025                                                                         | A. MEX Table                         | JJT-262.cpp |
 | 49 | Hello 2025                                                                         | B. Gorilla and the Exam              | GLP-242.cpp |
-| 50 | Hello 2025                                                                         | C. Trip to the Olympiad              | NMF-906.cpp |
-| 51 | Hello 2025                                                                         | D. Gifts Order                       | NMF-902.cpp |
+| 50 | Hello 2025                                                                         | C. Trip to the Olympiad              | NNF-906.cpp |
+| 51 | Hello 2025                                                                         | D. Gifts Order                       | NNF-902.cpp |
 | 52 | Codeforces Round 996 (Div. 2)                                                      | A. Two Frogs                         | CNS-329.cpp |
 | 53 | Codeforces Round 996 (Div. 2)                                                      | B. Crafting                          | CPG-218.cpp |
 | 54 | Codeforces Round 996 (Div. 2)                                                      | C. The Trail                         | YVZ-309.cpp |
