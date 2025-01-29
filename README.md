@@ -93,6 +93,7 @@
 | Repetitions      | Introductory Problems | 1069.py  |
 | Number Spiral    | Introductory Problems | 1071.py  |
 | Two Sets         | Introductory Problems | 1092.cpp |
+| Bit Strings      | Introductory Problems | 1617.cpp |
 | Distinct Number  | Sorting and Searching | 1621.py  |
 | Apartments       | Sorting and Searching | 1084.cpp |
 | Ferris Wheel     | Sorting and Searching | 1090.cpp | 
