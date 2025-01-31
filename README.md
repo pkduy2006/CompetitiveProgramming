@@ -82,23 +82,24 @@
 | 12 | Codeforces Round 1000 (Div. 2) C. Remove Exactly Two                                    | undetermined   | 29H-96080.cpp |                               |
 
 ### 5. cses
-| Name             | Topic                 | File     |
-|------------------|-----------------------|----------|
-| Two Knights      | Introductory Problems | 1072.py  |
-| Tower of Hanoi   | Introductory Problems | 2165.py  |
-| Increasing Array | Introductory Problems | 1094.py  |
-| Permutations     | Introductory Problems | 1070.py  |
-| Weird Algorithm  | Introductory Problems | 1068.py  | 
-| Missing Number   | Introductory Problems | 1083.py  |
-| Repetitions      | Introductory Problems | 1069.py  |
-| Number Spiral    | Introductory Problems | 1071.py  |
-| Two Sets         | Introductory Problems | 1092.cpp |
-| Bit Strings      | Introductory Problems | 1617.cpp |
-| Trailing Zeros   | Introductory Problems | 1618.cpp |
-| Coin Piles       | Introductory Problems | 1754.cpp |
-| Distinct Number  | Sorting and Searching | 1621.py  |
-| Apartments       | Sorting and Searching | 1084.cpp |
-| Ferris Wheel     | Sorting and Searching | 1090.cpp | 
+| Name               | Topic                 | File     |
+|--------------------|-----------------------|----------|
+| Two Knights        | Introductory Problems | 1072.py  |
+| Tower of Hanoi     | Introductory Problems | 2165.py  |
+| Increasing Array   | Introductory Problems | 1094.py  |
+| Permutations       | Introductory Problems | 1070.py  |
+| Weird Algorithm    | Introductory Problems | 1068.py  | 
+| Missing Number     | Introductory Problems | 1083.py  |
+| Repetitions        | Introductory Problems | 1069.py  |
+| Number Spiral      | Introductory Problems | 1071.py  |
+| Two Sets           | Introductory Problems | 1092.cpp |
+| Bit Strings        | Introductory Problems | 1617.cpp |
+| Trailing Zeros     | Introductory Problems | 1618.cpp |
+| Coin Piles         | Introductory Problems | 1754.cpp |
+| Palindrome Reorder | Introductory Problems | 1755.cpp |
+| Distinct Number    | Sorting and Searching | 1621.py  |
+| Apartments         | Sorting and Searching | 1084.cpp |
+| Ferris Wheel       | Sorting and Searching | 1090.cpp | 
 
 ### 6. LeetCode
 | Number | Name                                                     | Difficulty Level | File      | Notes                                                     |
@@ -138,11 +139,12 @@
 |   1011 | Capacity To Ship Packages Within D Days                  | Medium           | 1011.py   | N log(N) solution using Binary Search, beats 53.46%       |
 
 ### 7. lqdoj 
-| Name                  | File                   |
-|-----------------------|------------------------|
-| CSES Tower of Hanoi   | cses2165.py            |
-| Hành Trình Không Dừng | hanhtrinhkhongdung.cpp |
-| Hoán Vị Lớn Nhỏ       | maxprem.py             |
+| Name                    | File                   |
+|-------------------------|------------------------|
+| CSES Tower of Hanoi     | cses2165.py            |
+| Hành Trình Không Dừng   | hanhtrinhkhongdung.cpp |
+| Hoán Vị Lớn Nhỏ         | maxprem.py             |
+| CSES Palindrome Reorder | cses1755.cpp           |
 
 ### 8. vnoi
 | Name                                            | File               |
