@@ -98,6 +98,8 @@
 | Coin Piles         | Introductory Problems | 1754.cpp |
 | Palindrome Reorder | Introductory Problems | 1755.cpp |
 | Gray Code          | Introductory Problems | 2205.cpp |
+| Creating Strings   | Introductory Problems | 1622.cpp |
+| Apple Division     | Introductory Problems | 1623.cpp |
 | Distinct Number    | Sorting and Searching | 1621.py  |
 | Apartments         | Sorting and Searching | 1084.cpp |
 | Ferris Wheel       | Sorting and Searching | 1090.cpp | 
