@@ -1,3 +1,7 @@
+// lqdoj
+// CSES - Gray Code | Mã Gray
+// https://lqdoj.edu.vn/problem/cses2205
+
 #include <bits/stdc++.h>
 using namespace std;
 

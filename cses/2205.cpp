@@ -1,3 +1,7 @@
+// cses
+// Gray Code
+// https://cses.fi/problemset/task/2205/
+
 #include <bits/stdc++.h>
 using namespace std;
 
