@@ -97,6 +97,7 @@
 | Trailing Zeros     | Introductory Problems | 1618.cpp |
 | Coin Piles         | Introductory Problems | 1754.cpp |
 | Palindrome Reorder | Introductory Problems | 1755.cpp |
+| Gray Code          | Introductory Problems | 2205.cpp |
 | Distinct Number    | Sorting and Searching | 1621.py  |
 | Apartments         | Sorting and Searching | 1084.cpp |
 | Ferris Wheel       | Sorting and Searching | 1090.cpp | 
@@ -145,6 +146,7 @@
 | Hành Trình Không Dừng   | hanhtrinhkhongdung.cpp |
 | Hoán Vị Lớn Nhỏ         | maxprem.py             |
 | CSES Palindrome Reorder | cses1755.cpp           |
+| CSES Gray Code          | cses2205.cpp           |
 
 ### 8. vnoi
 | Name                                            | File               |

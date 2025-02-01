@@ -1,3 +1,7 @@
+// lqdoj
+// CSES - Palindrome Order | Sắp xếp lại xâu đối xứng
+// https://lqdoj.edu.vn/problem/cses1755
+
 #include <bits/stdc++.h>
 using namespace std;
 
