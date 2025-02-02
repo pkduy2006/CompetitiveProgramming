@@ -1,7 +1,3 @@
-// vnoi
-// Educational Backtracking: Đi dạo
-// https://oj.vnoi.info/problem/backtrack_a
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -60,7 +56,7 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(0);
     cout.tie(0);
-    //freopen("backtrack_a.txt","r",stdin);
+    //freopen("input.txt","r",stdin);
 
     cin >> n >> k;
     for(int i = 1; i <= n; i++) {
