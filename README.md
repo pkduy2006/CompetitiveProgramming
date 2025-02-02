@@ -69,22 +69,22 @@
 | 65 | Codeforces Round 1002 (Div. 2)                                                     | D. Graph and Graph                   | YKS-193.cpp |
 
 ### 4. Codeforces/Practice
-| No | Name                                                                                    | Problem Rating | File          | Notes                         |
-|----|-----------------------------------------------------------------------------------------|----------------|---------------|-------------------------------|
-| 1  | Codeforces Round 674 (Div. 3) C. Increase and Copy                                      |           1100 | 23F-00105.cpp |                               |
-| 2  | Codeforces Round 166 (Div. 2) B. Prime Matrix                                           |           1300 | 60E-01390.cpp |                               |
-| 3  | Codeforces Round 545 (Div. 2) A. Sushi for Two                                          |            900 | 77F-00960.cpp |                               |
-| 4  | Codeforces Round 460 (Div. 2) B. Perfect Number                                         |           1100 | 34B-01989.py  |                               |
-| 5  | Codeforces Round 900 (Div. 3) B. Aleksa and Stack                                       |            800 | 76H-03763.py  |                               |
-| 6  | Codeforces Round 900 (Div. 3) C. Vasilije in Cacak                                      |            900 | 76G-00292.py  |                               |
-| 7  | Codeforces Round 900 (Div. 3) E. Iva & Pav                                              |           1400 | 29B-07544.cpp |                               |
-| 8  | Codeforces Round 981 (Div. 3) B. Sakurako and Water                                     |            900 | 92B-01563.py  |                               |
-| 9A | IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2) B. Kevin and Geometry |           1100 | 43H-09674.py  | TLE on test 12 using Python   |
-| 9B | IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2) B. Kevin and Geometry |           1100 | 15B-03266.cpp | accepted using C++            | 
-| 10 | Codeforces Round 1000 (Div. 2) A. Minimal Coprime                                       |            800 | 50H-60258.cpp |                               |
-| 11 | Codeforces Round 1000 (Div. 2) B. Subsequence Update                                    |           1100 | 23H-01536.cpp |                               |
-| 12 | Codeforces Round 1000 (Div. 2) C. Remove Exactly Two                                    |           1600 | 29H-96080.cpp |                               |
-| 13 | Codeforces Alpha Round 20 (Codeforces format) C - Dijkstra?                             |           1900 | 92H-01205.cpp | Dijkstra algorithms           |
+| No | Name                                                                                    | Problem Rating | File           | Notes                         |
+|----|-----------------------------------------------------------------------------------------|----------------|----------------|-------------------------------|
+| 1  | Codeforces Round 674 (Div. 3) C. Increase and Copy                                      |           1100 |  23F-00105.cpp |                               |
+| 2  | Codeforces Round 166 (Div. 2) B. Prime Matrix                                           |           1300 |  60E-01390.cpp |                               |
+| 3  | Codeforces Round 545 (Div. 2) A. Sushi for Two                                          |            900 |  77F-00960.cpp |                               |
+| 4  | Codeforces Round 460 (Div. 2) B. Perfect Number                                         |           1100 |  34B-01989.py  |                               |
+| 5  | Codeforces Round 900 (Div. 3) B. Aleksa and Stack                                       |            800 |  76H-03763.py  |                               |
+| 6  | Codeforces Round 900 (Div. 3) C. Vasilije in Cacak                                      |            900 |  76G-00292.py  |                               |
+| 7  | Codeforces Round 900 (Div. 3) E. Iva & Pav                                              |           1400 |  29B-07544.cpp |                               |
+| 8  | Codeforces Round 981 (Div. 3) B. Sakurako and Water                                     |            900 |  92B-01563.py  |                               |
+| 9A | IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2) B. Kevin and Geometry |           1100 |  43H-09674.py  | TLE on test 12 using Python   |
+| 9B | IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2) B. Kevin and Geometry |           1100 |  15B-03266.cpp | accepted using C++            | 
+| 10 | Codeforces Round 1000 (Div. 2) A. Minimal Coprime                                       |            800 |  50H-60258.cpp |                               |
+| 11 | Codeforces Round 1000 (Div. 2) B. Subsequence Update                                    |           1100 |  23H-01536.cpp |                               |
+| 12 | Codeforces Round 1000 (Div. 2) C. Remove Exactly Two                                    |           1600 |  29H-96080.cpp |                               |
+| 13 | Codeforces Alpha Round 20 (Codeforces format) C - Dijkstra?                             |           1900 |  92H-01205.cpp | Dijkstra algorithms           |
 
 ### 5. cses
 | Name               | Topic                 | File     |
