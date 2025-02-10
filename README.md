@@ -1,72 +1,79 @@
 ## Here is the table of contents in this repository:
 ### 1. Codeforces/Contests
-| No | Round Name                                                                         | Problem                              | File        |
-|----|------------------------------------------------------------------------------------|--------------------------------------|-------------|
-| 1  | Codeforces Round 983 (Div. 2)                                                      | A. Circuit                           | SNP-658.cpp | 
-| 2  | Codeforces Round 983 (Div. 2)                                                      | B. Medians                           | CPG-183.cpp | 
-| 3  | Codeforces Round 983 (Div. 2)                                                      | C. Trinity                           | CPG-176.cpp | 
-| 4  | Codeforces Round 984 (Div. 3)                                                      | A. Quintomania                       | NMU-415.py  | 
-| 5  | Codeforces Round 984 (Div. 3)                                                      | B. Startup                           | XOS-745.cpp | 
-| 6  | Codeforces Round 984 (Div. 3)                                                      | C. Anya and 1100                     | SNO-400.cpp |
-| 7  | Codeforces Round 984 (Div. 3)                                                      | D. I love 1543                       | BRV-210.cpp |
-| 8  | Codeforces Round 987 (Div. 2)                                                      | A. Penchick and Modern Monument      | CNH-324.cpp | 
-| 9  | Codeforces Round 987 (Div. 2)                                                      | B. Penchick and Satay Sticks         | ILK-515.cpp | 
-| 10 | Codeforces Round 987 (Div. 2)                                                      | C. Penchick and BBQ Buns             | CNH-322.cpp | 
-| 11 | Codeforces Round 988 (Div. 3)                                                      | A. Twice                             | CNS-372.cpp | 
-| 12 | Codeforces Round 988 (Div. 3)                                                      | B. Intercepted Inputs                | CNH-365.cpp |
-| 13 | Codeforces Round 988 (Div. 3)                                                      | C. Superultra's Favorite Permutation | CNS-371.cpp |
-| 14 | Codeforces Round 988 (Div. 3)                                                      | D. Sharky Surfing                    | CPG-213.cpp |
-| 15 | Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2) | A. King Keykhosrow's Mystery         | CPG-179.cpp |
-| 16 | Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2) | B. Rakhsh's Revival                  | SNO-420.cpp |
-| 17 | Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2) | C. Trapped in the Witch's Labyrinth  | OXX-809.cpp | 
-| 18 | Educational Codeforces Round 172 (Rated for Div. 2)                                | A. Greedy Monocarp                   | CMY-633.cpp |
-| 19 | Educational Codeforces Round 172 (Rated for Div. 2)                                | B. Game with Colored Marbles         | XOS-702.cpp |
-| 20 | Educational Codeforces Round 172 (Rated for Div. 2)                                | C. Competitive Fishing               | CPG-175.cpp |
-| 21 | Educational Codeforces Round 172 (Rated for Div. 2)                                | D. Recommendations                   | CPG-211.cpp |
-| 22 | Codeforces Round 991 (Div. 3)                                                      | A. Line breaks                       | GNM-199.cpp |
-| 23 | Codeforces Round 991 (Div. 3)                                                      | B. Transfusion                       | GNM-187.cpp |
-| 24 | Codeforces Round 991 (Div. 3)                                                      | C. Uninteresting Number              | MNX-122.cpp | 
-| 25 | Codeforces Round 991 (Div. 3)                                                      | D. Digital string maximization       | CMY-621.cpp | 
-| 26 | Codeforces Round 991 (Div. 3)                                                      | F. Maximum modulo equality           | CPG-207.cpp |
-| 27 | Codeforces Round 991 (Div. 3)                                                      | E. Three Strings                     | CPG-197.cpp |
-| 28 | Codeforces Round 992 (Div. 2)                                                      | A. Game of Division                  | YKS-196.cpp |
-| 29 | Codeforces Round 992 (Div. 2)                                                      | B. Paint a Strip                     | MNX-245.cpp |
-| 30 | Codeforces Round 993 (Div. 4)                                                      | A. Easy Problem                      | MNX-142.cpp |
-| 31 | Codeforces Round 993 (Div. 4)                                                      | B. Normal Problem                    | CNS-366.cpp |
-| 32 | Codeforces Round 993 (Div. 4)                                                      | C. Hard Problem                      | CNS-330.cpp |
-| 33 | Codeforces Round 993 (Div. 4)                                                      | D. Harder Problem                    | CPG-172.cpp |
-| 34 | Codeforces Round 993 (Div. 4)                                                      | E. Insane Problem                    | NMU-408.cpp | 
-| 35 | Codeforces Round 993 (Div. 4)                                                      | F. Easy Demon Problem                | UYS-541.cpp |  
-| 36 | Codeforces Global Round 28                                                         | A. Kevin and Combination Lock        | SNO-435.cpp |
-| 37 | Codeforces Global Round 28                                                         | B. Kevin and Permutation             | YKS-199.cpp |
-| 38 | Codeforces Global Round 28                                                         | C. Kevin and Binary Strings          | MNX-146.cpp |
-| 39 | Codeforces Global Round 28                                                         | D. Kevin and Competition Memories    | YKS-197.cpp | 
-| 40 | Codeforces Round 994 (Div. 2)                                                      | A. MEX Destruction                   | CPG-212.cpp |
-| 41 | Codeforces Round 994 (Div. 2)                                                      | B. pspspsps                          | CPG-209.cpp |
-| 42 | Codeforces Round 994 (Div. 2)                                                      | C. MEX Cycle                         | CPG-189.cpp |
-| 43 | Codeforces Round 995 (Div. 3)                                                      | A. Preparing for the Olympiad        | IMR-656.cpp |
-| 44 | Codeforces Round 995 (Div. 3)                                                      | B. Journey                           | JJT-276.cpp |
-| 45 | Codeforces Round 995 (Div. 3)                                                      | C. Preparing for the Exam            | NMU-409.cpp |
-| 46 | Codeforces Round 995 (Div. 3)                                                      | D. Counting Pairs                    | SZF-988.cpp |
-| 47 | Codeforces Round 995 (Div. 3)                                                      | E. Best Price                        | JML-472.cpp |  
-| 48 | Hello 2025                                                                         | A. MEX Table                         | JJT-262.cpp |
-| 49 | Hello 2025                                                                         | B. Gorilla and the Exam              | GLP-242.cpp |
-| 50 | Hello 2025                                                                         | C. Trip to the Olympiad              | NNF-906.cpp |
-| 51 | Hello 2025                                                                         | D. Gifts Order                       | NNF-902.cpp |
-| 52 | Codeforces Round 996 (Div. 2)                                                      | A. Two Frogs                         | CNS-329.cpp |
-| 53 | Codeforces Round 996 (Div. 2)                                                      | B. Crafting                          | CPG-218.cpp |
-| 54 | Codeforces Round 996 (Div. 2)                                                      | C. The Trail                         | YVZ-309.cpp |
-| 55 | Codeforces Round 997 (Div. 2)                                                      | A. Shape Perimeter                   | CPG-210.cpp |
-| 56 | Codeforces Round 997 (Div. 2)                                                      | B. Find the Permutation              | SNO-400.cpp |
-| 57 | Codeforces Round 997 (Div. 2)                                                      | C. Palindromic Subsequences          | JJT-258.cpp |
-| 58 | Codeforces Round 998 (Div. 3)                                                      | A. Fibonacciness                     | VXT-538.cpp |
-| 59 | Codeforces Round 998 (Div. 3)                                                      | B. Farmer John's Card Game           | CNA-637.cpp |
-| 60 | Codeforces Round 998 (Div. 3)                                                      | C. Game of Mathletes                 | CPG-214.cpp |
-| 61 | Codeforces Round 998 (Div. 3)                                                      | D. Subtract Min Sort                 | CPG-178.cpp |
-| 62 | Codeforces Round 1002 (Div. 2)                                                     | A. Milya and Two Arrays              | FRI-873.cpp |
-| 63 | Codeforces Round 1002 (Div. 2)                                                     | B. Cost of the Array                 | SNO-403.cpp |
-| 64 | Codeforces Round 1002 (Div. 2)                                                     | C. Customer Service                  | LRV-322.cpp |
-| 65 | Codeforces Round 1002 (Div. 2)                                                     | D. Graph and Graph                   | YKS-193.cpp |
+| No | Round Name                                                                         | Problem                                   | File        |
+|----|------------------------------------------------------------------------------------|-------------------------------------------|-------------|
+| 1  | Codeforces Round 983 (Div. 2)                                                      | A. Circuit                                | SNP-658.cpp | 
+| 2  | Codeforces Round 983 (Div. 2)                                                      | B. Medians                                | CPG-183.cpp | 
+| 3  | Codeforces Round 983 (Div. 2)                                                      | C. Trinity                                | CPG-176.cpp | 
+| 4  | Codeforces Round 984 (Div. 3)                                                      | A. Quintomania                            | NMU-415.py  | 
+| 5  | Codeforces Round 984 (Div. 3)                                                      | B. Startup                                | XOS-745.cpp | 
+| 6  | Codeforces Round 984 (Div. 3)                                                      | C. Anya and 1100                          | SNO-400.cpp |
+| 7  | Codeforces Round 984 (Div. 3)                                                      | D. I love 1543                            | BRV-210.cpp |
+| 8  | Codeforces Round 987 (Div. 2)                                                      | A. Penchick and Modern Monument           | CNH-324.cpp | 
+| 9  | Codeforces Round 987 (Div. 2)                                                      | B. Penchick and Satay Sticks              | ILK-515.cpp | 
+| 10 | Codeforces Round 987 (Div. 2)                                                      | C. Penchick and BBQ Buns                  | CNH-322.cpp | 
+| 11 | Codeforces Round 988 (Div. 3)                                                      | A. Twice                                  | CNS-372.cpp | 
+| 12 | Codeforces Round 988 (Div. 3)                                                      | B. Intercepted Inputs                     | CNH-365.cpp |
+| 13 | Codeforces Round 988 (Div. 3)                                                      | C. Superultra's Favorite Permutation      | CNS-371.cpp |
+| 14 | Codeforces Round 988 (Div. 3)                                                      | D. Sharky Surfing                         | CPG-213.cpp |
+| 15 | Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2) | A. King Keykhosrow's Mystery              | CPG-179.cpp |
+| 16 | Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2) | B. Rakhsh's Revival                       | SNO-420.cpp |
+| 17 | Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2) | C. Trapped in the Witch's Labyrinth       | OXX-809.cpp | 
+| 18 | Educational Codeforces Round 172 (Rated for Div. 2)                                | A. Greedy Monocarp                        | CMY-633.cpp |
+| 19 | Educational Codeforces Round 172 (Rated for Div. 2)                                | B. Game with Colored Marbles              | XOS-702.cpp |
+| 20 | Educational Codeforces Round 172 (Rated for Div. 2)                                | C. Competitive Fishing                    | CPG-175.cpp |
+| 21 | Educational Codeforces Round 172 (Rated for Div. 2)                                | D. Recommendations                        | CPG-211.cpp |
+| 22 | Codeforces Round 991 (Div. 3)                                                      | A. Line breaks                            | GNM-199.cpp |
+| 23 | Codeforces Round 991 (Div. 3)                                                      | B. Transfusion                            | GNM-187.cpp |
+| 24 | Codeforces Round 991 (Div. 3)                                                      | C. Uninteresting Number                   | MNX-122.cpp | 
+| 25 | Codeforces Round 991 (Div. 3)                                                      | D. Digital string maximization            | CMY-621.cpp | 
+| 26 | Codeforces Round 991 (Div. 3)                                                      | F. Maximum modulo equality                | CPG-207.cpp |
+| 27 | Codeforces Round 991 (Div. 3)                                                      | E. Three Strings                          | CPG-197.cpp |
+| 28 | Codeforces Round 992 (Div. 2)                                                      | A. Game of Division                       | YKS-196.cpp |
+| 29 | Codeforces Round 992 (Div. 2)                                                      | B. Paint a Strip                          | MNX-245.cpp |
+| 30 | Codeforces Round 993 (Div. 4)                                                      | A. Easy Problem                           | MNX-142.cpp |
+| 31 | Codeforces Round 993 (Div. 4)                                                      | B. Normal Problem                         | CNS-366.cpp |
+| 32 | Codeforces Round 993 (Div. 4)                                                      | C. Hard Problem                           | CNS-330.cpp |
+| 33 | Codeforces Round 993 (Div. 4)                                                      | D. Harder Problem                         | CPG-172.cpp |
+| 34 | Codeforces Round 993 (Div. 4)                                                      | E. Insane Problem                         | NMU-408.cpp | 
+| 35 | Codeforces Round 993 (Div. 4)                                                      | F. Easy Demon Problem                     | UYS-541.cpp |  
+| 36 | Codeforces Global Round 28                                                         | A. Kevin and Combination Lock             | SNO-435.cpp |
+| 37 | Codeforces Global Round 28                                                         | B. Kevin and Permutation                  | YKS-199.cpp |
+| 38 | Codeforces Global Round 28                                                         | C. Kevin and Binary Strings               | MNX-146.cpp |
+| 39 | Codeforces Global Round 28                                                         | D. Kevin and Competition Memories         | YKS-197.cpp | 
+| 40 | Codeforces Round 994 (Div. 2)                                                      | A. MEX Destruction                        | CPG-212.cpp |
+| 41 | Codeforces Round 994 (Div. 2)                                                      | B. pspspsps                               | CPG-209.cpp |
+| 42 | Codeforces Round 994 (Div. 2)                                                      | C. MEX Cycle                              | CPG-189.cpp |
+| 43 | Codeforces Round 995 (Div. 3)                                                      | A. Preparing for the Olympiad             | IMR-656.cpp |
+| 44 | Codeforces Round 995 (Div. 3)                                                      | B. Journey                                | JJT-276.cpp |
+| 45 | Codeforces Round 995 (Div. 3)                                                      | C. Preparing for the Exam                 | NMU-409.cpp |
+| 46 | Codeforces Round 995 (Div. 3)                                                      | D. Counting Pairs                         | SZF-988.cpp |
+| 47 | Codeforces Round 995 (Div. 3)                                                      | E. Best Price                             | JML-472.cpp |  
+| 48 | Hello 2025                                                                         | A. MEX Table                              | JJT-262.cpp |
+| 49 | Hello 2025                                                                         | B. Gorilla and the Exam                   | GLP-242.cpp |
+| 50 | Hello 2025                                                                         | C. Trip to the Olympiad                   | NNF-906.cpp |
+| 51 | Hello 2025                                                                         | D. Gifts Order                            | NNF-902.cpp |
+| 52 | Codeforces Round 996 (Div. 2)                                                      | A. Two Frogs                              | CNS-329.cpp |
+| 53 | Codeforces Round 996 (Div. 2)                                                      | B. Crafting                               | CPG-218.cpp |
+| 54 | Codeforces Round 996 (Div. 2)                                                      | C. The Trail                              | YVZ-309.cpp |
+| 55 | Codeforces Round 997 (Div. 2)                                                      | A. Shape Perimeter                        | CPG-210.cpp |
+| 56 | Codeforces Round 997 (Div. 2)                                                      | B. Find the Permutation                   | SNO-400.cpp |
+| 57 | Codeforces Round 997 (Div. 2)                                                      | C. Palindromic Subsequences               | JJT-258.cpp |
+| 58 | Codeforces Round 998 (Div. 3)                                                      | A. Fibonacciness                          | VXT-538.cpp |
+| 59 | Codeforces Round 998 (Div. 3)                                                      | B. Farmer John's Card Game                | CNA-637.cpp |
+| 60 | Codeforces Round 998 (Div. 3)                                                      | C. Game of Mathletes                      | CPG-214.cpp |
+| 61 | Codeforces Round 998 (Div. 3)                                                      | D. Subtract Min Sort                      | CPG-178.cpp |
+| 62 | Codeforces Round 1002 (Div. 2)                                                     | A. Milya and Two Arrays                   | FRI-873.cpp |
+| 63 | Codeforces Round 1002 (Div. 2)                                                     | B. Cost of the Array                      | SNO-403.cpp |
+| 64 | Codeforces Round 1002 (Div. 2)                                                     | C. Customer Service                       | LRV-322.cpp |
+| 65 | Codeforces Round 1002 (Div. 2)                                                     | D. Graph and Graph                        | YKS-193.cpp |
+| 66 | Codeforces Round 1003 (Div. 4)                                                     | A. Skibidus and Amog'u                    | KVU-436.cpp |
+| 67 | Codeforces Round 1003 (Div. 4)                                                     | B. Skibidus and Ohio                      | CNA-642.cpp |
+| 68 | Codeforces Round 1003 (Div. 4)                                                     | C1. Skibidus and Fanum Tax (easy version) | KMT-619.cpp |
+| 69 | Codeforces Round 1003 (Div. 4)                                                     | C2. Skibidus and Fanum Tax (hard version) | CMY-597.cpp |
+| 70 | Codeforces Round 1003 (Div. 4)                                                     | D. Skibidus and Sigma                     | CPG-174.cpp |
+| 71 | Codeforces Round 1003 (Div. 4)                                                     | E. Skibidus and Rizz                      | JJT-260.cpp |
+| 72 | Codeforces Round 1003 (Div. 4)                                                     | G. Skibidus and Capping                   | NLX-558.cpp |
 
 ### 4. Codeforces/Practice
 | No | Name                                                                                    | Problem Rating | File           | Notes                         |
@@ -85,6 +92,7 @@
 | 11 | Codeforces Round 1000 (Div. 2) B. Subsequence Update                                    |           1100 |  23H-01536.cpp |                               |
 | 12 | Codeforces Round 1000 (Div. 2) C. Remove Exactly Two                                    |           1600 |  29H-96080.cpp |                               |
 | 13 | Codeforces Alpha Round 20 (Codeforces format) C - Dijkstra?                             |           1900 |  92H-01205.cpp | Dijkstra algorithms           |
+| 14 | Codeforces Round 1003 (Div. 4) D. Skibidus and Sigma                                    | undetermined   |  29B-16806.cpp |                               |
 
 ### 5. cses
 | Name               | Topic                 | File     |
