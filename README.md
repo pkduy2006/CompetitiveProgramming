@@ -120,7 +120,7 @@
 
 ### 6. LeetCode
 | Number | Name                                                     | Difficulty Level | File      | Notes                                                     |
-|--------|----------------------------------------------------------|------------------|-----------|---------------------------------------------------------==|
+|--------|----------------------------------------------------------|------------------|-----------|-----------------------------------------------------------|
 |      1 | Two Sum                                                  | Easy             | 1.cpp     | Beats 100%                                                |
 |      3 | Longest Substring Without Repeating Characters           | Medium           | 3.cpp     | 2 * N solution, beats 83.74%                              |
 |      4 | Median of Two Sorted Arrays                              | Hard             | 4.cpp     | (M + N) solution, beats 34.66%, not the best solution     |
