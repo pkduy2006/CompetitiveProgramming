@@ -74,6 +74,9 @@
 | 70 | Codeforces Round 1003 (Div. 4)                                                     | D. Skibidus and Sigma                     | CPG-174.cpp |
 | 71 | Codeforces Round 1003 (Div. 4)                                                     | E. Skibidus and Rizz                      | JJT-260.cpp |
 | 72 | Codeforces Round 1003 (Div. 4)                                                     | G. Skibidus and Capping                   | NLX-558.cpp |
+| 73 | Codeforces Round 1004 (Div. 2)                                                     | A. Adjacent Digit Sums                    | YKS-198.cpp |
+| 74 | Codeforces Round 1004 (Div. 2)                                                     | B. Two Large Bags                         | SNO-417.cpp |
+| 75 | Codeforces Round 1004 (Div. 2)                                                     | C. Devyatkino                             | SNO-436.cpp |
 
 ### 4. Codeforces/Practice
 | No | Name                                                                                    | Problem Rating | File           | Notes                         |
