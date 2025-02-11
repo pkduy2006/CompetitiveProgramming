@@ -1,3 +1,6 @@
+// Codeforces Round 1003 (Div. 4) G. Skibidus and Capping
+// https://codeforces.com/contest/2065/problem/G
+
 #include <bits/stdc++.h>
 #define int unsigned long long
 using namespace std;
