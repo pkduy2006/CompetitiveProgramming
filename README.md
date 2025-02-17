@@ -120,6 +120,7 @@
 | Distinct Number    | Sorting and Searching | 1621.py  |
 | Apartments         | Sorting and Searching | 1084.cpp |
 | Ferris Wheel       | Sorting and Searching | 1090.cpp | 
+| Sum of Two Values  | Sorting and Searching | 1640.cpp |
 
 ### 6. LeetCode
 | Number | Name                                                     | Difficulty Level | File      | Notes                                                     |
