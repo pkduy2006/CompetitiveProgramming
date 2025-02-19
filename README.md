@@ -96,6 +96,7 @@
 | 12 | Codeforces Round 1000 (Div. 2) C. Remove Exactly Two                                    |           1600 |  29H-96080.cpp |                               |
 | 13 | Codeforces Alpha Round 20 (Codeforces format) C - Dijkstra?                             |           1900 |  92H-01205.cpp | Dijkstra algorithms           |
 | 14 | Codeforces Round 1003 (Div. 4) D. Skibidus and Sigma                                    | undetermined   |  29B-16806.cpp |                               |
+| 15 | Educational Codeforces Round 174 (Rated for Div. 2) C. Beautiful Sequence               | undetermined   |  29H-96122.cpp |                               |     
 
 ### 5. cses
 | Name               | Topic                 | File     |
