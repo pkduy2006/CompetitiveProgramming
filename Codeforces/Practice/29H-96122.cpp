@@ -1,3 +1,6 @@
+// Educational Codeforces Round 174 (Rated for Div. 2) C. Beautiful Sequence
+// https://codeforces.com/contest/2069/problem/C
+
 #include <bits/stdc++.h>
 using namespace std;
 
